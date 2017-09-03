@@ -1,2 +1,3 @@
 # Hola-Mundo
-Primera interaccion co hithub
+Primera interaccion con github
+Me llamo Ruth estoy siguiendo el primer tutorial
